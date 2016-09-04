@@ -1,0 +1,3 @@
+# iOS-Core-Data
+iOS Movie Collection with Core Data
+Movie Library app to work with iOS Core Data. Xcode project that includes the schema for movie persistent storage. And, this iOS app uses Core Data to persist movies. This app provides the ability to add new Movie Descriptions, remove existing Movie Descriptions, and to view/browse the movies that are stored in the app's core data. Also provides the ability to search Open Movie Database API. Uses the Json representation returned by a successful search, providing the user the ability to add new descriptions into the apps database. For example with the search http://www.omdbapi.com/?t=Frozen&y=&plot=short&r=json returns the Json of an entry, whose details are displayed by this app.
